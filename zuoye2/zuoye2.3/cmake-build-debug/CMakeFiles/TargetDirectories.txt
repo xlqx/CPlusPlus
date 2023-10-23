@@ -1,3 +1,0 @@
-C:/Users/Administrator/CLionProjects/untitled3/zuoye2.3/cmake-build-debug/CMakeFiles/untitled3.dir
-C:/Users/Administrator/CLionProjects/untitled3/zuoye2.3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Administrator/CLionProjects/untitled3/zuoye2.3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
